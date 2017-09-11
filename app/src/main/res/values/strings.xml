@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Practice</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_news">新闻</string>
+    <string name="title_video">视频</string>
+    <string name="title_picture">图片</string>
+    <string name="title_mine">我的</string>
 </resources>
